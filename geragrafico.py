@@ -9,5 +9,8 @@ def main():
 
     plt.plot(valores)
     plt.show()
+
+    plt.ylabel('Valores de entrada')
+    plt.xlabel('Amostragem')
  
 main()
